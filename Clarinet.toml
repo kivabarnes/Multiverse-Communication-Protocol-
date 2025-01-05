@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/inter-universe-message-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.network-incentive-token]
+path = 'contracts/network-incentive-token.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
