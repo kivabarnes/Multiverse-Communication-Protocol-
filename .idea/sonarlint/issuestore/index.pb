@@ -7,3 +7,5 @@ X
 (tests/inter-universe-message-nft.test.ts,5/2/522ccc8eb8f66b24321957d57cf2b08e08268623
 V
 &contracts/network-incentive-token.clar,c/5/c5c199f7b085c8fefd7d456e3043efded43c2f59
+U
+%tests/network-incentive-token.test.ts,a/2/a2e7dc2587777c02b1a7437490a1695042bda5ec
