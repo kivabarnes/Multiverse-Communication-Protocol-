@@ -15,3 +15,5 @@ U
 +tests/quantum-computing-integration.test.ts,a/3/a398f00fef4e69c4a09eadacc186162175fd9768
 [
 +contracts/quantum-entanglement-channel.clar,6/7/670e0d5d64e00b6219704bf5f403eadc409c5d18
+Z
+*tests/quantum-entanglement-channel.test.ts,6/4/6444984f0c4650e22a82c80f889e6bfb21a02830
