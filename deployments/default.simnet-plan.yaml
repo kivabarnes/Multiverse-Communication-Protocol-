@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/inter-universe-message-nft.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: network-incentive-token
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/network-incentive-token.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: quantum-computing-integration
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/quantum-computing-integration.clar
+            clarity-version: 2
       epoch: "2.5"
