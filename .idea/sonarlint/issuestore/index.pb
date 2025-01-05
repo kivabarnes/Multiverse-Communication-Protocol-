@@ -9,3 +9,5 @@ V
 &contracts/network-incentive-token.clar,c/5/c5c199f7b085c8fefd7d456e3043efded43c2f59
 U
 %tests/network-incentive-token.test.ts,a/2/a2e7dc2587777c02b1a7437490a1695042bda5ec
+\
+,contracts/quantum-computing-integration.clar,3/a/3aa4d2baff0dde2a6551cc30a74898b685777fda
