@@ -11,3 +11,5 @@ U
 %tests/network-incentive-token.test.ts,a/2/a2e7dc2587777c02b1a7437490a1695042bda5ec
 \
 ,contracts/quantum-computing-integration.clar,3/a/3aa4d2baff0dde2a6551cc30a74898b685777fda
+[
++tests/quantum-computing-integration.test.ts,a/3/a398f00fef4e69c4a09eadacc186162175fd9768
